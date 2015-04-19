@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor Info</string>
+
+    <string name="start_button">Iniciar servicio</string>
+    <string name="stop_button">Detener servicio</string>
+    <string name="action_settings">Settings</string>
+</resources>
